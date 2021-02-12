@@ -3,6 +3,7 @@ Purpose of the Repository
 
 This repository contains the results for a Data Science Project which involves optimizing business for an electric car-sharing service company. 
 Overview
+
 This repository contains the python code that the project has utilized in accordance to CRISP-DM.
 Files in the Repository
 The repository contains the following files/folders:
