@@ -22,4 +22,5 @@ The following packages are necessary to run the cells  Notebook Moringa_Data_Sci
 •	dateutil
 •	Matplotlib
 How To Use It
+
 Please assure that all dependencies which are mentioned in the section Packages have been installed. There is a requirements.txt file in the Repository which contains all relevant dependencies. You can install all dependencies from that file using pip via the command: pip install -r requirements.txt Further, the business questions as well as their answers are contained in the  markdown cells.
